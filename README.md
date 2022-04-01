@@ -1,4 +1,4 @@
-# 12.-Gym-Program-Churn-Prediction-Customer-Segmentation
+# 11.-Gym-Program-Churn-Prediction-Customer-Segmentation
 
 Model Fitness is a gym chain and we are tasked with predicting their churn rate for the next month. Our client wishes to implement a customer interaction strategy based on analytical data.
 
